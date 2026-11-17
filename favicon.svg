@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="lint.fish">
+  <rect width="32" height="32" rx="7" fill="#07090f"/>
+  <rect x="0.6" y="0.6" width="30.8" height="30.8" rx="6.4" fill="none" stroke="#5eead4" stroke-opacity="0.35"/>
+  <path d="M9 10.5L15 16l-6 5.5" fill="none" stroke="#5eead4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 21.5H23.5" fill="none" stroke="#c4b5fd" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
